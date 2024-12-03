@@ -12,7 +12,7 @@ async function getGroqChatCompletion() {
     messages: [
       {
         role: "user",
-        content: "What is Groq",
+        content: "Updated Prompt",
       },
     ],
     model: "llama3-8b-8192",
